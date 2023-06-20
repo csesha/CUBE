@@ -1,0 +1,244 @@
+﻿# "Hello" in many languages
+# English = Hello
+# 424 Word Pairs
+# Version 0.0.3
+#
+# DAMS - The Dictionary Additions Management System
+# http://sourceforge.net/projects/dams/
+#
+# This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License. 
+# To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ 
+# or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+#
+# Delimiter: <TAB>
+#
+!kung san	!kao
+afrikaans	hallo
+afrikaans	haai
+albanian	c'kemi
+albanian	tugjatjeta
+albanian	mirëdita
+albanian	tungjatjeta
+aleut	aang
+alsatian	hallo
+ancient greek	χαίρε
+ancient greek	χαίρε και υγίαινε
+arabic	و عليكم السلام
+arabic	مرحبا
+arabic	أهلاً
+arabic	مرحبًا
+arabic	آلو
+arabic	السلام عليكم
+armenian	բարև
+armenian	բարև ձեզ
+armenian	ալլո
+armenian	parev
+armenian	ողջույն
+asturian	halo
+basque	kaixo
+batak	horas
+bavarian	grüß gott
+bengali	নমস্কার
+bengali	nomoskar
+bosnian	zdravo
+bosnian	ćao
+bosnian	merhaba
+bosnian	selam
+breton	nozvezh vat
+bulgarian	ало
+bulgarian	здравейте
+bulgarian	здравей
+bulgarian	zdrávej
+bulgarian	zdrávejte
+cantonese	你好
+cantonese	喂
+chinese	你好
+chinese	您好
+chinese	喂
+chinese	爾好
+chinese	ni hao
+croatian	čao
+croatian	bok
+croatian	zdravo
+croatian	ćao
+croatian	bog
+czech	ahoj
+czech	nazdar
+czech	dobrý den
+dalecarian	høj
+danish	hallo
+danish	hej
+danish	hejsa
+danish	dav
+double dutch	hutch-e-lul-lul-o
+dutch	hallo
+dutch	hoi
+egyptian arabic	ألسّلام عليكم
+egyptian arabic	وعليكم السّلام
+egyptian arabic	أهلاً وسهلاً
+egyptian arabic	أهلاً بيك
+egyptian arabic	أهلاً
+esperanto	saluton
+esperanto	sal
+estonian	hei
+estonian	tere
+faroese	hallo
+faroese	hey
+faroese	halló
+fijian	bula uro
+fijian	bula
+filipino	hoy
+filipino	kumustá
+finnish	hyvää päivää
+finnish	hei
+finnish	moi
+finnish	moro
+finnish	terve
+finnish	moikka
+french	salut
+french	bonjour
+gaelic	halò
+galician	ola
+georgian	გამარჯობა
+georgian	gamardžoba
+german	hallo
+gilbertese	mauri
+greek	γειά σας
+greek	γειά σου
+greek	γειά
+greek	χαίρετε
+hakka	爾好
+hausa	sannu
+hawaiian	aloha
+hebrew	שלום
+hebrew	shalom
+hindi	नमस्ते
+hindi	namaste
+hmong	nyob zoo
+hungarian	szervusz
+hungarian	szervusztok
+hungarian	sziasztok
+hungarian	szia
+icelandic	góðan dag
+icelandic	hæ
+icelandic	halló
+indonesian	hai
+indonesian	selamat siang
+indonesian	halo
+interlingua	bon die
+interlingua	salute
+inuktitut	ᐊᐃ
+inuktitut	ᐊᐃᓐᖓᐃ
+italian	ciào
+italian	salve
+italian	ciao
+italian	buongiorno
+japanese	今日は
+japanese	おっす
+japanese	もしもし
+japanese	mushi mushi
+japanese	kanichi wa
+japanese	こんにちは
+javanese	selamat
+jèrriais	bouônjour
+kazakh	сәлем
+kazakh	салам
+kazakh	сәлеметсіздер
+korean	안녕하세요
+korean	안녕
+korean	안녕하십니까
+lao	ສະບາຍດີ
+latin	salve
+latin	salvete
+latin	ave
+latin	avete
+limburgish	hallo
+lithuanian	labas
+lithuanian	sveikas
+lithuanian	sveiki
+livonian	tēriņtš
+lojban	coi
+luxembourgish	moïen
+macedonian	здраво
+macedonian	ало
+malay	selamat datong
+maltese	bongu
+maltese	bonġu
+maltese	bonswa
+mandarin	你好
+mandarin	您好
+mandarin	喂
+mandarin	ni hao
+mohawk	kwe
+mohawk	sekoh
+mohican	aqui
+mongolian	сайн байна уу
+mongolian	сайн уу
+navajo	y´'át'ééh
+norwegian	hallo
+norwegian	hei
+norwegian	halla
+palauan	alii
+persian	سلام
+persian	سلام علیکم
+pig latin	ellohay
+polish	cześć
+portuguese	olá
+punjabi	ਸਤਿ ਸ਼੍ਰੀ ਅਕਾਲ
+romanian	bunã ziua
+russian	здравствуйте
+russian	алло
+russian	здраствуй
+russian	привет
+russian	здорово
+samoan	talofa
+samoan	malo
+sanskrit	नमस्कार
+sanskrit	namaskāram
+serbian	здраво
+serbian	zdravo
+serbian	ćao
+serbian	ћао
+shanghainese	儂好
+sicilian	ciao
+sicilian	salutamu
+slovenian	živjo
+slovenian	halo
+slovenian	zdravo
+spanish	hola
+swahili	hujambo
+swahili	jambo
+swedish	hallå
+swedish	hej
+swiss german	hallo
+swiss german	hoi
+swiss german	grüzi
+swiss german	sälü
+tagalog	kamusta
+tagalog	kumusta
+taiwanese	你好
+tamil	வணக்கம்
+teochow chinese	汝好
+thai	สวัสดี
+thai	ฮัลโหล
+thai	สวัสดีค่ะ
+thai	สวัสดีครับ
+turkish	merhaba
+tuvan	экии
+tuvan	ekii
+ukranian	привіт
+ukranian	добрий день
+urdu	ەيلو
+urdu	آداب
+urdu	السلام علیکم
+vietnamese	chào chị
+vietnamese	xin chào
+vietnamese	chào
+volapük	glidis
+walloon	bondjoû
+welsh	shwmae
+west frisian	hallo
+west frisian	hoi
+wu	你好
+yiddish	אַ גוטן טאָג
+zulu	sawubona
