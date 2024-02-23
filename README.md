@@ -1,5 +1,5 @@
 # CUBE
-Repo for the CUBE program
+The repo for the CUBE program
 
 This repo has all the instructions, datafiles, and code for the CUBE program.
 
